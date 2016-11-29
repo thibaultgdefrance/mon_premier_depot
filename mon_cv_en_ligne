@@ -1,0 +1,71 @@
+<!DOCKTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" src="style.css" href="/home/thibault/Documents/cours et exercices/ex 28.11.16.css"/>
+		<title>thibault defrance</title>
+		<meta charset="utf-8" />
+	</head>
+	<body>
+	
+		
+		
+		<img src="http://lvdnena.rosselcdn.net/sites/default/files/dpistyles_v2/ena_16_9_in_line/2016/11/17/node_75469/14953512/public/2016/11/17/B9710245025Z.1_20161117094727_000%2BGC380FTJ5.2-0.jpg?itok=nt0KflTg" />	
+	
+		
+		<h1>Thibault Defrance</h1>
+		
+		<div id="knowledge">
+				<h2>compétences:</h2>
+						<div class="competences">
+							<p>Html5</p>
+							<img src="/home/thibault/Documents/img/html5.png" class="icon"/>
+						</div>
+						<div class="competences">
+							<p>CSS</p>
+							<img src="/home/thibault/Documents/img/index.png" class="icon"/>
+						</div>	
+						<div class="competences">
+							<p>PHP</p>
+							<img src="/home/thibault/Documents/img/php.png" class="icon"/>
+						</div>
+						<div class="competences">
+							<p>Java Script</p>
+							<img src="/home/thibault/Documents/img/java_sript.png" class="icon"/>
+						</div>
+						<div class="competences">
+							<p>Ruby</p>
+							<img src="/home/thibault/Documents/img/ruby.png" class="icon"/>
+						</div>
+						<div class="competences">
+							<p>Python</p>
+							<img src="https://www.python.org/static/opengraph-icon-200x200.png" class="icon"/>	
+						</div>							
+					
+		</div>		
+		
+		<div id="parcours">
+			<h2>Mon parcours</h2>
+			<p>Après avoir obtenu un bachalauréat STL j'ai travaillé pour une station de radio puis pour une chaine télé enfin je me suis réorienter vers une formation de developpeur web et applications Pop school qui m'a permi d'obtenir mon diplôme.</p>  
+		</div>
+		
+		<div id="a_propos">
+			<h2>À propos</h2>
+			<p>Je suis un grand passionné d'art,aussi bien le dessin, la sculpture, l'animation 2d, 3d, le modlage 3d et je suis un grand passionné de nouvelles technologies</p>
+		</div>
+	
+		
+		<div id="état civil">
+			<h2>Me contacter</h2>
+			<p>Tel:06.21.22.54.99</p>
+			<p>Mail:thibault.g.defrance@gmail.com</p>
+			<p>265 avenue Mitterrand</p>
+			<p>Sains-en-Gohelle</p>
+			<p>62114<p>
+		</div>
+		
+		<div>
+			<a href="https://feedly.com/i/my"><h2>Me poser une question.</h2></a>
+		</div>
+		
+	</body>
+</html>
